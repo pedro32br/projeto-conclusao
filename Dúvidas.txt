@@ -1,0 +1,3 @@
+Dúvidas
+
+1- Como fazer a busca por usuarios na lista não fazer N+1 buscas?

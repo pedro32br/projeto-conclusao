@@ -1,0 +1,72 @@
+[33mcommit e27ebd1e54daea5fa90ef7ecb17ceb0b0c392ebb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pedro Henrique <pedrobragaom@gmail.com>
+Date:   Mon Sep 17 07:03:09 2018 -0300
+
+    Projeto de conclusão de curso
+
+[33mcommit efac6cea016ee05a8beaa8d5020b50fdcac2b75f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Mon Aug 20 16:10:14 2018 -0300
+
+    Update README.md
+
+[33mcommit eabcaf131ad97618ff13158e19b5eb703881ea3d[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Mon Aug 20 16:03:30 2018 -0300
+
+    Update README.md
+
+[33mcommit 13da6f7dfdbe1f5c9e2d62a64213cd4c14509ad2[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Mon Aug 20 16:01:56 2018 -0300
+
+    Update JPAProductionConfiguration.java
+
+[33mcommit 24aa0e500da32090fd8fb470194b6119323905a7[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Merge: fb4987f 9e19b32
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Mon May 28 16:22:25 2018 -0300
+
+    Merge branch 'master' of https://github.com/alura-cursos/casadocodigo
+
+[33mcommit fb4987f2b3df0a970b75a2a709bbb3fb31b3b1ff[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Mon May 28 16:19:51 2018 -0300
+
+    corrigindo senha, liberando acesso ao /produtos/detalhes
+
+[33mcommit 9e19b32e447e31fdd78a4ece089b795536feaebe[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Fri May 25 12:44:49 2018 -0300
+
+    Pequeno ajuste sobre o banco
+
+[33mcommit dffcec8026cf4e10d857562049f597a80dc8403c[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Fri May 25 12:19:51 2018 -0300
+
+    Mais detalhe no README
+
+[33mcommit 4da21416b4dadc731129a6bfc998c9206a42ac24[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Fri May 25 12:03:43 2018 -0300
+
+    Desabilitando o cache no home para simplificar
+
+[33mcommit c30f29621867e3a6ef3f939759e6624bf804c354[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Fri May 25 11:33:50 2018 -0300
+
+    formatação
+
+[33mcommit 5c29effaf794203e6cf40e03236bcaa5fa5d8e7f[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Fri May 25 11:30:44 2018 -0300
+
+    Commit com os arquivos inicias do projeto formação
+
+[33mcommit e37297cfcefaa23b2edea6c2bfa48755f0d7a09d[m
+Author: Nico Steppat <nico.steppat@caelum.com.br>
+Date:   Fri May 25 10:17:47 2018 -0300
+
+    Initial commit
