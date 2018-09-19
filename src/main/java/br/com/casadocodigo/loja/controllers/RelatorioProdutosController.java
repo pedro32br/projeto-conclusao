@@ -6,9 +6,11 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;
+import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import br.com.casadocodigo.loja.dao.ProdutoDAO;
@@ -20,7 +22,7 @@ public class RelatorioProdutosController {
 	@Autowired
 	private ProdutoDAO dao;
 	
-	@GetMapping(value="/relatorio-produtos")
+	@GetMapping(value="/relatorio-produtos", produces=MediaType.APPLICATION_JSON_UTF8_VALUE)
 	public ModelAndView relatorio(@RequestParam(value="data", required=false) @DateTimeFormat(pattern="dd/MM/yyyy") Calendar data) {
 		ModelAndView modelAndView = new ModelAndView("relatorioProduto");
 		if(data == null) {
